@@ -1,6 +1,15 @@
 
 class Main {
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        // Example usage of the reverseString method
+        String example1 = reverseString("codedamn");
+        String example2 = reverseString("123");
+
+        // Output the results
+        System.out.println(example1); // Expected output: nmadedoc
+        System.out.println(example2); // Expected output: 321
     }
+
+
+    // Create "reverseString" method to reverse a string
 }
