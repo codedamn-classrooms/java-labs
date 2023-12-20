@@ -6,5 +6,6 @@ class Main {
         System.out.println(isPalindrome("codedamn")); // Should return false
     }
     
-    // Implement the "isPalindrome" method here
+    // Write the code in this method
+    public static Boolean isPalindrome() {}
 }
