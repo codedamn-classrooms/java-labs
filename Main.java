@@ -8,5 +8,6 @@ class Main {
         // System.out.println(binaryToDecimal("10a1")); // Uncomment to test invalid input
     }
 
-   // Implement the "binaryToDecimal" method here
+    // "binaryToDecimal" method should take a string as input and return an integer
+    public static int binaryToDecimal() {}
 }
