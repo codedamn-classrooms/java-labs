@@ -6,5 +6,6 @@ class Main {
         System.out.println("2100 is leap year: " + isLeapYear(2100)); // Should return false
     }
 
-    // Implement the "isLeapYear" method
+    // Write your code in this method
+    public static Boolean isLeapYear() {}
 }
