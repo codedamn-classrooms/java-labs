@@ -7,5 +7,6 @@ class Main {
         System.out.println("Sum of digits (54321): " + sumOfDigits(54321)); // Expected Output: 6
     }
 
-    // Create the sumOfDigits method here
+    // the sumOfDigits methods should take an integer and return an integer
+    public static int sumOfDigits() {}
 }
