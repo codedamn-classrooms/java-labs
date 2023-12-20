@@ -7,7 +7,8 @@ class Main {
         System.out.printf("%.2f\n", calculateSimpleInterest(10000, 0, 10)); // Edge case: Expected output: 0.00
     }
 
-   // Define your "calculateSimpleInterest" method here, the method should return a double value and all input parameters should be of type double
+    // the method should return a double value and all input parameters should be of type double
+    public static double calculateSimpleInterest() {
 
-   
+    }
 }
