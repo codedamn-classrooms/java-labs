@@ -11,5 +11,8 @@ class Main {
     }
 
 
-    // Create "reverseString" method to reverse a string
+    // the method should accept a string and return a string
+    public static String reverseString() {
+
+    }
 }
