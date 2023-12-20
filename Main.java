@@ -26,4 +26,5 @@ class Main {
     }
 
     // Create the "commonElements" method here
+    public static int[] commonElements() {}
 }
