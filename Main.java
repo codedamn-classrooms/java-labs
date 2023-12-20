@@ -9,4 +9,6 @@ class Main {
     }
 
     // create the "isPowerOfTwo" method here
+    public static boolean isPowerOfTwo() {}
+    
 }
