@@ -7,5 +7,5 @@ class Main {
     }
 
     // Write your code in this method
-    public static Boolean isLeapYear() {}
+    public static boolean isLeapYear() {}
 }
