@@ -7,5 +7,5 @@ class Main {
     }
     
     // Write the code in this method
-    public static Boolean isPalindrome() {}
+    public static boolean isPalindrome() {}
 }
