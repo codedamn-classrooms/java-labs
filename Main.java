@@ -8,5 +8,6 @@ class Main {
         System.out.println("Is -5 prime? " + isPrimeNumber(-5)); // Expected: false
     }
 
-    // Create the "isPrimeNumber" method here. Accepts Integer value as parameter and should return a boolean value
+    // "isPrimeNumber" accepts Integer value as parameter and should return a boolean value
+    public static boolean isPrimeNumber() {} 
 }
