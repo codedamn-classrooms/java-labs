@@ -17,5 +17,7 @@ class Main {
 
     }
 
-    // Create the calculateBMI Method here
+    // Write your code in this method
+    public static Object[] calculateBMI(double height, double weight) {}
+
 }
