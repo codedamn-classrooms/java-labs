@@ -7,5 +7,6 @@ class Main {
         System.out.println("sumOfIntegers(18) = " + sumOfIntegers(18)); // Expected output: 171
     }
 
-    // Create the "sumOfIntegers" method which takes an integer and returns an integer sum 
+    // "sumOfIntegers" takes an integer and returns an integer
+    public static int sumOfIntegers() {}
 }
